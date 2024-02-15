@@ -1,0 +1,15 @@
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\Constructors\bin\Debug\net8.0\Constructors.exe
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\Constructors\bin\Debug\net8.0\Constructors.deps.json
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\Constructors\bin\Debug\net8.0\Constructors.runtimeconfig.json
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\Constructors\bin\Debug\net8.0\Constructors.dll
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\Constructors\bin\Debug\net8.0\Constructors.pdb
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\Constructors\obj\Debug\net8.0\Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\Constructors\obj\Debug\net8.0\Constructors.AssemblyInfoInputs.cache
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\Constructors\obj\Debug\net8.0\Constructors.AssemblyInfo.cs
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\Constructors\obj\Debug\net8.0\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\Constructors\obj\Debug\net8.0\Constructors.sourcelink.json
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\Constructors\obj\Debug\net8.0\Constructors.dll
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\Constructors\obj\Debug\net8.0\refint\Constructors.dll
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\Constructors\obj\Debug\net8.0\Constructors.pdb
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\Constructors\obj\Debug\net8.0\Constructors.genruntimeconfig.cache
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\Constructors\obj\Debug\net8.0\ref\Constructors.dll
