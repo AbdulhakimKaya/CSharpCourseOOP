@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CSharpCourseOOP")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ReferenceTypes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48173d9bcf92e9f619bdb8cd80cf975c97c81771")]
-[assembly: System.Reflection.AssemblyProductAttribute("CSharpCourseOOP")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CSharpCourseOOP")]
+[assembly: System.Reflection.AssemblyProductAttribute("ReferenceTypes")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ReferenceTypes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

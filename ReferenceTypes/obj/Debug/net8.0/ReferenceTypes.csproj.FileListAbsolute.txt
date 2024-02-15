@@ -1,0 +1,15 @@
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\ReferenceTypes\bin\Debug\net8.0\ReferenceTypes.exe
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\ReferenceTypes\bin\Debug\net8.0\ReferenceTypes.deps.json
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\ReferenceTypes\bin\Debug\net8.0\ReferenceTypes.runtimeconfig.json
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\ReferenceTypes\bin\Debug\net8.0\ReferenceTypes.dll
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\ReferenceTypes\bin\Debug\net8.0\ReferenceTypes.pdb
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.AssemblyInfoInputs.cache
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.AssemblyInfo.cs
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.sourcelink.json
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.dll
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\ReferenceTypes\obj\Debug\net8.0\refint\ReferenceTypes.dll
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.pdb
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.genruntimeconfig.cache
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\ReferenceTypes\obj\Debug\net8.0\ref\ReferenceTypes.dll
