@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Interfaces")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LinqProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35cbc222dbfdb3f8e0d0495f4e40fb47ce9c5f86")]
-[assembly: System.Reflection.AssemblyProductAttribute("Interfaces")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Interfaces")]
+[assembly: System.Reflection.AssemblyProductAttribute("LinqProject")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LinqProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

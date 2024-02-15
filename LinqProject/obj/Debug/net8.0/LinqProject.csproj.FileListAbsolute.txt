@@ -1,0 +1,15 @@
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\LinqProject\bin\Debug\net8.0\LinqProject.exe
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\LinqProject\bin\Debug\net8.0\LinqProject.deps.json
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\LinqProject\bin\Debug\net8.0\LinqProject.runtimeconfig.json
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\LinqProject\bin\Debug\net8.0\LinqProject.dll
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\LinqProject\bin\Debug\net8.0\LinqProject.pdb
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\LinqProject\obj\Debug\net8.0\LinqProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\LinqProject\obj\Debug\net8.0\LinqProject.AssemblyInfoInputs.cache
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\LinqProject\obj\Debug\net8.0\LinqProject.AssemblyInfo.cs
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\LinqProject\obj\Debug\net8.0\LinqProject.csproj.CoreCompileInputs.cache
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\LinqProject\obj\Debug\net8.0\LinqProject.sourcelink.json
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\LinqProject\obj\Debug\net8.0\LinqProject.dll
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\LinqProject\obj\Debug\net8.0\refint\LinqProject.dll
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\LinqProject\obj\Debug\net8.0\LinqProject.pdb
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\LinqProject\obj\Debug\net8.0\LinqProject.genruntimeconfig.cache
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\LinqProject\obj\Debug\net8.0\ref\LinqProject.dll
