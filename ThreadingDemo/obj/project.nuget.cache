@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mas/FhqXAk3hiyO8EVBRfwOr9LMRZs1BXxAri1K7kZPhqY1zMHHQxWyAuQQKp3GggXO90Qs7SGEei6l31NF6gQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abdul\\RiderProjects\\CSharpCourseOOP\\ThreadingDemo\\ThreadingDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdul\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\abdul\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\abdul\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\abdul\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\CSharpCourseOOP\bin\Debug\net8.0\CSharpCourseOOP.exe
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\CSharpCourseOOP\bin\Debug\net8.0\CSharpCourseOOP.deps.json
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\CSharpCourseOOP\bin\Debug\net8.0\CSharpCourseOOP.runtimeconfig.json
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\CSharpCourseOOP\bin\Debug\net8.0\CSharpCourseOOP.dll
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\CSharpCourseOOP\bin\Debug\net8.0\CSharpCourseOOP.pdb
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\CSharpCourseOOP\obj\Debug\net8.0\CSharpCourseOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\CSharpCourseOOP\obj\Debug\net8.0\CSharpCourseOOP.AssemblyInfoInputs.cache
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\CSharpCourseOOP\obj\Debug\net8.0\CSharpCourseOOP.AssemblyInfo.cs
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\CSharpCourseOOP\obj\Debug\net8.0\CSharpCourseOOP.csproj.CoreCompileInputs.cache
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\CSharpCourseOOP\obj\Debug\net8.0\CSharpCourseOOP.sourcelink.json
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\CSharpCourseOOP\obj\Debug\net8.0\CSharpCourseOOP.dll
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\CSharpCourseOOP\obj\Debug\net8.0\refint\CSharpCourseOOP.dll
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\CSharpCourseOOP\obj\Debug\net8.0\CSharpCourseOOP.pdb
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\CSharpCourseOOP\obj\Debug\net8.0\CSharpCourseOOP.genruntimeconfig.cache
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\CSharpCourseOOP\obj\Debug\net8.0\ref\CSharpCourseOOP.dll

@@ -1,0 +1,17 @@
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\ThreadingDemo\bin\Debug\net6.0-windows\ThreadingDemo.exe
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\ThreadingDemo\bin\Debug\net6.0-windows\ThreadingDemo.deps.json
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\ThreadingDemo\bin\Debug\net6.0-windows\ThreadingDemo.runtimeconfig.json
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\ThreadingDemo\bin\Debug\net6.0-windows\ThreadingDemo.dll
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\ThreadingDemo\bin\Debug\net6.0-windows\ThreadingDemo.pdb
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\ThreadingDemo\obj\Debug\net6.0-windows\ThreadingDemo.Form1.resources
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\ThreadingDemo\obj\Debug\net6.0-windows\ThreadingDemo.csproj.GenerateResource.cache
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\ThreadingDemo\obj\Debug\net6.0-windows\ThreadingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\ThreadingDemo\obj\Debug\net6.0-windows\ThreadingDemo.AssemblyInfoInputs.cache
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\ThreadingDemo\obj\Debug\net6.0-windows\ThreadingDemo.AssemblyInfo.cs
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\ThreadingDemo\obj\Debug\net6.0-windows\ThreadingDemo.csproj.CoreCompileInputs.cache
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\ThreadingDemo\obj\Debug\net6.0-windows\ThreadingDemo.sourcelink.json
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\ThreadingDemo\obj\Debug\net6.0-windows\ThreadingDemo.dll
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\ThreadingDemo\obj\Debug\net6.0-windows\refint\ThreadingDemo.dll
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\ThreadingDemo\obj\Debug\net6.0-windows\ThreadingDemo.pdb
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\ThreadingDemo\obj\Debug\net6.0-windows\ThreadingDemo.genruntimeconfig.cache
+C:\Users\abdul\RiderProjects\CSharpCourseOOP\ThreadingDemo\obj\Debug\net6.0-windows\ref\ThreadingDemo.dll
